@@ -24,7 +24,7 @@ The challenge around any data project is finding your data source. Sometimes thi
 Now that I know where my data is going to come from, the next step is usually figuring out how to ingest that data, whether through scraping a webpage directly or by download some sort of data file like a csv (**c**omma **s**eparated **v**alues). It's during this step that you need to reflect on how to keep your data files **organized**! This may seem irrelevent for small projects, and I've definitely gotten away without doing so, but from experience once you start working on complex projects you'll quickly find that keeping your files organized is imperative for your sanity. Staying organized is a habit, so my advice is to start early and often, and to practice file organization even for small projects. Since my project will be asking questions around salary for ten seasons (2009-2019) staying organized with my files is going to be really important. Below I'm sharing a rough diagram of how I usually choose to keep my files organized for a larger project, so feel free to use the same schematic for yours! 
 
 
-```r, echo=FALSE, fig.align='center'
+```r echo=FALSE, fig.align='center'
 DiagrammeR::grViz("digraph {
   graph [layout = dot, rankdir = TB]
   
