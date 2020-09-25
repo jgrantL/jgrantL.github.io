@@ -19,12 +19,12 @@ In my opinion, there are two main stages of prepping data: acquiring your data &
 
 ##### Data Acquisition
 
-The challenge around any data project is finding your data source. Sometimes this part will actually dictate what kind of project you end up choosing to do. Luckily, with sports, there are a plethora of sources for game/team data. All of my data comes from [Basketball Reference] (https://www.basketball-reference.com/), a great source for any team-related data and statistics. 
+The challenge around any data project is finding your data source. Sometimes this part will actually dictate what kind of project you end up choosing to do. Luckily, with sports, there are a plethora of sources for game/team data. All of my data comes from [Basketball Reference](https://www.basketball-reference.com/), a great source for any team-related data and statistics. 
 
 Now that I know where my data is going to come from, the next step is usually figuring out how to ingest that data, whether through scraping a webpage directly or by download some sort of data file like a csv (**c**omma **s**eparated **v**alues). It's during this step that you need to reflect on how to keep your data files **organized**! This may seem irrelevent for small projects, and I've definitely gotten away without doing so, but from experience once you start working on complex projects you'll quickly find that keeping your files organized is imperative for your sanity. Staying organized is a habit, so my advice is to start early and often, and to practice file organization even for small projects. Since my project will be asking questions around salary for ten seasons (2009-2019) staying organized with my files is going to be really important. Below I'm sharing a rough diagram of how I usually choose to keep my files organized for a larger project, so feel free to use the same schematic for yours! 
 
 
-```{r, echo=FALSE, fig.align='center'}
+```r, echo=FALSE, fig.align='center'
 DiagrammeR::grViz("digraph {
   graph [layout = dot, rankdir = TB]
   
@@ -58,7 +58,7 @@ DiagrammeR::grViz("digraph {
 Now that I have my file schematic, let's talk about Hypertext Markup Language (HTML) files. HTML is the language used in documents that makeup a webpage. Since I'm working with online data (and maybe you too), it's important to get comfortable with how data is formatted online using html files. Figure 1 below shows an example html file for the Toronto Raptors' homepage on Basketball Reference. If you want to look at a webpage's html file on a Mac, just hold control as you click anywhere on the page and select *View Page Source*. With a quick google search you can find the same operation for Windows.
 
 
-```{r html_example, echo=FALSE, fig.align='center', fig.cap="Figure 1 - Example HTML page from Basketball Reference under Toronto Raptors team statistics", out.width = '50%', out.height='50%'}
+```r html_example, echo=FALSE, fig.align='center', fig.cap="Figure 1 - Example HTML page from Basketball Reference under Toronto Raptors team statistics", out.width = '50%', out.height='50%'
 knitr::include_graphics("html_example.png")
 ```
 
