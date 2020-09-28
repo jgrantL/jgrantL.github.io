@@ -5,15 +5,15 @@
 ### Machine Learning
 
 [Predicting Vertical Profiles of Nitrogen Dioxide Using Random Forest]()
-![]("./images/average_both_profile.jpeg")
+- [Link](https://github.com/jgrantL/NO2-profiles-ML) to github repository containing all code & README document
 
 ---
 
 ### Data Analysis & Visualizations
 
 [Exploring the Data Science Lifecycle with NBA Team Salary Data](/nba_report.html)
-<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video](https://www.youtube.com/watch?v=hsHwMV5i2gM&feature=youtu.be) introducing project and final visualizations
+- [Video](https://www.youtube.com/watch?v=hsHwMV5i2gM&feature=youtu.be) introducing project and final visualizations
+- [Link](https://github.com/jgrantL/NBA-salary-viz) to github repository containing all code & README document
 
 
 ##### Shiny App Interactive Visualizations (R package)
