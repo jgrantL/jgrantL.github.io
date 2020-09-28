@@ -49,11 +49,15 @@ Relevent Coursework:
 
 Algorithmic Design & Techniques - IN PROGRESS
 <br>
-Institution: edX
+Institution: UCSanDiegoX
+<br>
+Link to course [here](https://www.edx.org/course/algorithmic-design-and-techniques).
 
 Data Structure Fundamentals - IN PROGRESS
 <br>
-Institution: edX
+Institution: UCSanDiegoX
+<br>
+Link to course [here](https://www.edx.org/course/data-structures-fundamentals).
 
 ---
 
