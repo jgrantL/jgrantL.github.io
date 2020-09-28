@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  < - [Link](https://github.com/jgrantL/NO2-profiles-ML) to github repository containing all code & README document />
+  <[Link](https://github.com/jgrantL/NO2-profiles-ML) to github repository containing all code & README document />
 </p>
 
 ---
@@ -18,9 +18,6 @@
 ### Data Analysis & Visualizations
 
 [Exploring the Data Science Lifecycle with NBA Team Salary Data](/nba_report.html)
-<p align="center">
-  <img src="" />
-</p>
 - [Video](https://www.youtube.com/watch?v=hsHwMV5i2gM&feature=youtu.be) introducing project and final visualizations
 - [Link](https://github.com/jgrantL/NBA-salary-viz) to github repository containing all code & README document
 
