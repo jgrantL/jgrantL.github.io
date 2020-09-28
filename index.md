@@ -13,7 +13,7 @@
 
 [Exploring the Data Science Lifecycle with NBA Team Salary Data](/nba_report.html)
 <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video introducing project and final visualizations](https://www.youtube.com/watch?v=hsHwMV5i2gM&feature=youtu.be)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video](https://www.youtube.com/watch?v=hsHwMV5i2gM&feature=youtu.be) introducing project and final visualizations
 
 
 ##### Shiny App Interactive Visualizations (R package)
