@@ -5,12 +5,19 @@
 ### Machine Learning
 
 [Predicting Vertical Profiles of Nitrogen Dioxide Using Random Forest]()
-![]("/images/average_both_profile.jpeg?raw=true"")
+![]("/images/average_both_profile.jpeg")
 
 ---
 
 ### Data Analysis & Visualizations
 
 [Exploring the Data Science Lifecycle with NBA Team Salary Data](/nba_report.html)
+
+
+#### Shiny App Interactive Visualizations (R package)
+
+[Ranking NBA salaries](https://jenny-projects.shinyapps.io/NBA-barplot/)
+
+[Comparing NBA Salaries](https://jenny-projects.shinyapps.io/NBA-lineplot/)
 
 ---
