@@ -30,6 +30,7 @@
 
 ---
 Bachelor of Arts, Applied Mathematics with concentration in Data Science
+<br><br>
 Institution: UC Berkeley
 Relevent Coursework: Principles & Techniques in Data Science (**python**), Computational Structures in Data Science (**python**), Concepts in Computing with Data (**R**), Numerical Analysis (**MATLAB**), Linear Algebra, Concepts of Probability
 
