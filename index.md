@@ -9,9 +9,8 @@
   <img src="https://github.com/jgrantL/jgrantL.github.io/blob/master/images/average_both_profile.jpeg" />
 </p>
 
-<center>
-- [Link](https://github.com/jgrantL/NO2-profiles-ML) to github repository containing all code & README document
-</center>
+->[Link](https://github.com/jgrantL/NO2-profiles-ML) to github repository containing all code & README document<-
+
 ---
 
 ### Data Analysis & Visualizations
