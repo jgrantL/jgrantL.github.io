@@ -15,7 +15,7 @@
 
 ### Data Analysis & Visualizations
 
-[Exploring the Data Science Lifecycle with NBA Team Salary Data](/nba_report.html)
+[Exploring the Data Science Lifecycle with NBA Team Salary Data](/final_nba_report.html)
 - [Video](https://www.youtube.com/watch?v=hsHwMV5i2gM&feature=youtu.be) introducing project and final visualizations
 - [Link](https://github.com/jgrantL/NBA-salary-viz) to github repository containing all code & README document
 
