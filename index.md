@@ -4,7 +4,7 @@
 
 ### Machine Learning
 
-Predicting Vertical Profiles of Nitrogen Dioxide Using Random Forest - blog coming soon, but check out link to github below
+[Predicting Vertical Profiles of Nitrogen Dioxide Using Random Forest]() - blog coming soon, but check out link to github below
 <p align="center">
   <img width="250" height="200" src="/images/average_both_profile.jpeg" />
 </p>
