@@ -6,7 +6,7 @@
 
 Predicting Vertical Profiles of Nitrogen Dioxide Using Random Forest - blog coming soon, but check out link to github below
 <p align="center">
-  <img width="100" height="100" src="/images/average_both_profile.jpeg" />
+  <img width="200" height="200" src="/images/average_both_profile.jpeg" />
 </p>
 
 - [Link](https://github.com/jgrantL/NO2-profiles-ML) to github repository containing all code & README document
