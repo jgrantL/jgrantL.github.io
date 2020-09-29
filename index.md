@@ -16,6 +16,9 @@ Predicting Vertical Profiles of Nitrogen Dioxide Using Random Forest - blog comi
 ### Data Analysis & Visualizations
 
 [Exploring the Data Science Lifecycle with NBA Team Salary Data](/final_nba_report.html)
+<p align="center">
+  <img width="200" height="200" src="/images/NBA_logo.png" />
+</p>
 - [Video](https://www.youtube.com/watch?v=hsHwMV5i2gM&feature=youtu.be) introducing project and final visualizations
 - [Link](https://github.com/jgrantL/NBA-salary-viz) to github repository containing all code & README document
 
