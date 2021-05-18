@@ -4,7 +4,7 @@
 
 ### Machine Learning
 
-**Predicting Vertical Profiles of Nitrogen Dioxide Using Random Forest**
+**Forecasting Vertical Profiles of Nitrogen Dioxide - Satellite Data Retrieval**
 <p align="center">
   <img width="250" height="200" src="/images/average_both_profile.jpeg" />
 </p>
